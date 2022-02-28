@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/2inf1/kevin.da-costa-moura/TI/Code_TP02/Code_TP02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8   -isystem /usr/include/opencv  -Wall -g -O2 -std=c++11 -g   -o CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/2inf1/kevin.da-costa-moura/TI/Code_TP02/Code_TP02/build/CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/2inf1/kevin.da-costa-moura/TI/Code_TP02/Code_TP02/build/CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/2inf1/kevin.da-costa-moura/TI/Code_TP02/Code_TP02/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8   -isystem /usr/include/opencv  -Wall -g -O2 -std=c++11 -g   -o CMakeFiles/tp2_exo1.dir/src/tp2_exo1.cpp.o -c /home/2inf1/kevin.da-costa-moura/TI/Code_TP02/Code_TP02/src/tp2_exo1.cpp",
+  "file": "/home/2inf1/kevin.da-costa-moura/TI/Code_TP02/Code_TP02/src/tp2_exo1.cpp"
+}
+]
